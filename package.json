@@ -12,5 +12,13 @@
     "subham bharadwaz",
     "subham",
     "bharadwaz"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "subhamBharadwaz/subham",
+  "author": {
+    "name": "Subham Bharadwaz",
+    "email": "subhamsbharadwaz@gmail.com",
+    "url": "https://twitter.com/subham_js"
+  }
 }
