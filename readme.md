@@ -7,5 +7,5 @@
 To use this CLI run the following command:
 
 ```sh
-npz subham
+npx subham
 ```
