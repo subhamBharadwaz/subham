@@ -24,9 +24,7 @@ welcome({
 });
 
 log(`
-${italic(
-  `Full stack web developer and BCA graduate. Mainly focusing on MERN stack.`
-)}
+${italic(`I'm a CS student and a full stack web developer based in India..`)}
 
  ${twitterClr(` Twitter `)} ${dim(`https://twitter.com/subham_js`)}
  ${githubClr(` GitHub `)} ${dim(`https://github.com/subhamBharadwaz`)}
